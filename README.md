@@ -1,4 +1,4 @@
-# 15IA_SIM
+# IA_normalization
 
 Plotting scripts for IA normalization tests in the DarkQuest N-body simulations.
 
